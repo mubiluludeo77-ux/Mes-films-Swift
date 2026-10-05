@@ -1,4 +1,4 @@
-# 🎬 MesFilms
+#  MesFilms
 
 Application **SwiftUI** pour gérer sa liste de films à voir : on parcourt la liste, on ouvre la fiche d'un film, on le note, on le marque comme vu ou favori, on ajoute ses propres films et on réorganise le tout avec des gestes natifs.
 
